@@ -62,7 +62,7 @@ ArrayList<ImageView>arraylist=new ArrayList<>();
 
          @Override
          public void onPageScrollStateChanged(int state) {
-
+//woshi
          }
      });
     }
